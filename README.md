@@ -1,4 +1,4 @@
-#Learn Japan
+# Learn Japan
 
 A tool to study words  
 
