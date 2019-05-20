@@ -6,7 +6,7 @@ ne ko:chat
 i su:chaise
 u chi:chez soi
 i nu:chien
-ka gi:clé
+ka gi:cle
 a i :amour
 u e:dessus
 mi zu:eau
@@ -16,7 +16,7 @@ ko ko:ici
 ba ka:idiot
 i e:maison
 yu ki:neige
-ne n:année
+ne n:annee
 ha i:oui
 ka sa:parapluie
 hi to:personne
@@ -26,10 +26,9 @@ ka# me# ra# :appareil-photo
 to ke i:montre
 a o i:bleu
 i i e:non
-i i e:non
 me i shi:carte de visite
 ni ho n:japon
-a so ko:là-bas
+a so ko:la-bas
 sa stsu shi:magazine
 sa ka na:poisson
 ri n go:pomme
@@ -38,30 +37,30 @@ a ka i:rouge
 ka ba n:sac
 tsu ku e:table
 ki stsu te:timbre
-i sha:médecin
+i sha:medecin
 wa ta shi:moi
 ku ru ma:voiture
 te cho u:agenda
 me i sha:ophtalmologue
 shi n bu n:journal
-ga ku se i:étudiant
+ga ku se i:etudiant
 ka i sha:entreprise
 ni ho n go:langue japonaise
-ko u ko u:lycée
+ko u ko u:lycee
 ha i sha:dentiste
 se n se i:professeur
 fu# ra# n# su# :france
 gi n ko u:banque
-da i ga ku:université
+da i ga ku:universite
 a# me# ri# ka# :USA
-ko# -# hi# -# :café
-sha i n:employé
+ko# -# hi# -# :cafe
+sha i n:employe
 ba# n# sa# n# :vincent
-o to u sa n:père
+o to u sa n:pere
 bi yo u i n:salon de coiffure
 sa yo u na ra:au revoir
 byo u i n:hopital
-o ka a sa n:mère
+o ka a sa n:mere
 ni ho n ji n:japonais
-ko u ka da i ga ku:université de technologie
+ko u ka da i ga ku:universite de technologie
 ha ga ki:carte postale
